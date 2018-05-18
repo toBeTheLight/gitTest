@@ -1,3 +1,19 @@
 {
-  "version": "1.0.1-bate.1"
+  "name": "gittest",
+  "version": "1.0.1-bate.1",
+  "description": "git命令测试",
+  "main": "no",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toBeTheLight/gitTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toBeTheLight/gitTest/issues"
+  },
+  "homepage": "https://github.com/toBeTheLight/gitTest#readme"
 }
