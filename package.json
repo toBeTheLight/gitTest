@@ -1,6 +1,6 @@
 {
   "name": "gittest",
-  "version": "1.0.1-bate.1",
+  "version": "1.0.1-rc.1",
   "description": "git命令测试",
   "main": "no",
   "scripts": {
